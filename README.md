@@ -6,6 +6,8 @@ https://youtube-clone-egemen.netlify.app
 netlify yukleme
 https://www.youtube.com/watch?v=biLUB3adQbo&ab_channel=PROTOTURK
 
+arada 403 hatası aldığım aldığım için tam istediğim gibi olmadı. şimdilik çalışıyor :)
+
 
 
 
